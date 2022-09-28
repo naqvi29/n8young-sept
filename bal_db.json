@@ -1,0 +1,106 @@
+{
+   "data": [
+      {
+         "user_id": "f942b4973b3643819b3511f0dae23908",
+         "balance": 1173.2550000000003,
+         "id": 199376206170916299,
+         "upload": true
+      },
+      {
+         "user_id": "6f3c5b151e254baf99f1faad5b32c715",
+         "balance": 547.4800000000001,
+         "id": 229744933543490688,
+         "upload": true
+      },
+      {
+         "user_id": "dbefbdd6be25494386ba4b5f803f4f7f",
+         "balance": 359996.99,
+         "id": 146048887178424609,
+         "upload": true
+      },
+      {
+         "user_id": "250fd094dfff4b2ab56137f93f3f58d0",
+         "balance": 0,
+         "id": 221067808889809532,
+         "upload": true
+      },
+      {
+         "user_id": "ada209ee1f0f420c92d9efc4f0d07745",
+         "balance": 0,
+         "id": 363012860241744641,
+         "upload": true
+      },
+      {
+         "user_id": "5428106b88a1462bb7a2f1213890cbe6",
+         "balance": 0,
+         "id": 249394650153668213,
+         "upload": true
+      },
+      {
+         "user_id": "f10a5edd35ac4fc0a4a9758eb10b9550",
+         "balance": 0,
+         "id": 945358883335835925,
+         "upload": true
+      },
+      {
+         "user_id": "94dcad65ccbf437ca2ffe402e5e394af",
+         "balance": -1.46,
+         "id": 225569783910552935,
+         "upload": true
+      },
+      {
+         "user_id": "e0d193b234cf47259b88b4e1e1b2e18e",
+         "balance": 2999991.775,
+         "id": 211587416327904124,
+         "upload": true
+      },
+      {
+         "user_id": "7807d0828bb5459f899ea8c2f333e56a",
+         "balance": 0,
+         "id": 954592615026271869,
+         "upload": true
+      },
+      {
+         "user_id": "60f2766c73384744a1ba66312770883b",
+         "balance": 0,
+         "id": 184057844700193696,
+         "upload": true
+      },
+      {
+         "user_id": "529b0d30fa0e4c959aff384864ee6a64",
+         "balance": 0,
+         "id": 126233698688034575,
+         "upload": true
+      },
+      {
+         "user_id": "4c558ab7c475418883e586b262e73221",
+         "balance": 0,
+         "id": 138435791792551675,
+         "upload": true
+      },
+      {
+         "user_id": "1dc1eecfe97e4d6ea0a11897380af508",
+         "balance": 0,
+         "id": 305017898267777537,
+         "upload": true
+      },
+      {
+         "user_id": "a0717ed76af547bd87c831b5a2e1ff22",
+         "balance": 3600,
+         "id": 190378639988889890,
+         "upload": true
+      },
+      {
+         "user_id": "eaa0a35f6c184fb69372739b421db878",
+         "balance": 489.56000000000006,
+         "upload": true,
+         "id": 973968808153834183
+      },
+      {
+         "user_id": "bcb2fe468b8e4f32a2479c0361b67239",
+         "balance": 399,
+         "upload": true,
+         "id": 146274401657685969
+      }
+   ]
+}
